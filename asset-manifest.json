@@ -5,6 +5,6 @@
     "main.86664c65.js.map": "/static/js/main.86664c65.js.map"
   },
   "entrypoints": [
-    "static/js/main.86664c65.js"
+    "test-react/static/js/main.86664c65.js"
   ]
 }
