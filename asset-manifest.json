@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/BlokOne/test-react.git/static/js/main.6446ce81.js",
-    "index.html": "/BlokOne/test-react.git/index.html",
-    "main.6446ce81.js.map": "/BlokOne/test-react.git/static/js/main.6446ce81.js.map"
+    "main.js": "/username.github.io/static/js/main.86664c65.js",
+    "index.html": "/username.github.io/index.html",
+    "main.86664c65.js.map": "/username.github.io/static/js/main.86664c65.js.map"
   },
   "entrypoints": [
-    "static/js/main.6446ce81.js"
+    "static/js/main.86664c65.js"
   ]
 }
