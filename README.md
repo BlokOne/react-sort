@@ -1,5 +1,4 @@
-
-https://blokone.github.io/test-react/
+https://blokone.github.io/react-sort/
 
 Верстку макета с помощью React для десктопа и мобильных устройств.
 
