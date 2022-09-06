@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/react-sort/static/css/main.24489a01.css",
     "main.js": "/react-sort/static/js/main.474a9cb9.js",
     "index.html": "/react-sort/index.html",
+    "main.24489a01.css.map": "/react-sort/static/css/main.24489a01.css.map",
     "main.474a9cb9.js.map": "/react-sort/static/js/main.474a9cb9.js.map"
   },
   "entrypoints": [
+    "static/css/main.24489a01.css",
     "static/js/main.474a9cb9.js"
   ]
 }
